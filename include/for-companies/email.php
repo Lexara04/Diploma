@@ -1,0 +1,1 @@
+<a href="mailto:pr@nstu.ru">pr@nstu.ru</a>
